@@ -21328,8 +21328,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
 	cr.system_object.prototype.acts.AddVar,
-	cr.behaviors.Rex_MoveTo.prototype.acts.SetCurrentSpeed,
 	cr.behaviors.Rex_MoveTo.prototype.acts.SetTargetPos,
+	cr.behaviors.Rex_MoveTo.prototype.acts.SetCurrentSpeed,
 	cr.system_object.prototype.acts.Wait,
 	cr.behaviors.Rex_MoveTo.prototype.acts.SetAcceleration
 ];};
